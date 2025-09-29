@@ -37,18 +37,7 @@ I'm a full-stack developer passionate about creating quality and intuitive web a
 
 ---
 
-### My GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexHryshniakov&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHryshniakov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 ### My Social Media
 
 <p>
@@ -68,11 +57,5 @@ I'm a full-stack developer passionate about creating quality and intuitive web a
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </p>
-
----
-
-### Contribution Calendar Snake
-
-![Snake animation](https://github.com/AlexHryshniakov/AlexHryshniakov/blob/output/github-contribution-grid-snake.svg)
 
 ---

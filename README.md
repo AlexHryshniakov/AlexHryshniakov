@@ -41,21 +41,15 @@ I'm a full-stack developer passionate about creating quality and intuitive web a
 ### My Social Media
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/your_telegram_profile">
+  <a href="https://t.me/@alex_12345676">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-            <a href="https://github.com/ваше-имя-профиля">
+            <a href="https://github.com/AlexHryshniakov">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-            <a href="mailto:ваша-почта@example.com">
+            <a href="mailto:hryshniakovalex@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-            <a href="https://www.instagram.com/ваш-профиль-instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+
 </p>
 
 ---

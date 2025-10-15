@@ -41,7 +41,7 @@ I'm a full-stack developer passionate about creating quality and intuitive web a
 ### My Social Media
 
 <p>
-  <a href="https://t.me/@alex_12345676">
+  <a href="tg://resolve?domain=alex_12345676">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
             <a href="https://github.com/AlexHryshniakov">

@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm a full-stack developer passionate about creating quality and intuitive web applications. I'm currently focused on improving my skills and building interesting projects.
+I'm a .net developer passionate about creating quality and intuitive web applications. I'm currently focused on improving my skills and building interesting projects.
 
 ---
 
